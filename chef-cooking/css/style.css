@@ -1,0 +1,896 @@
+*
+{
+	text-decoration: none;
+	color: black;
+}
+
+body
+{
+
+  margin: 0 auto;
+  /*background:url("http://fony-kartinki.ru/_ph/75/2/883672266.jpg?1478440281");*/
+    /*background:url("http://fony-kartinki.ru/_ph/75/2/256389565.jpg");*/
+
+ /*background:url("http://fony-kartinki.ru/_ph/75/2/459035884.jpg");*/
+
+
+
+
+  /*background:url("http://fony-kartinki.ru/_ph/75/2/664282723.jpg");*/
+/*  background:url("http://артстена.рф/assets/galleries/1545/998402.jpg");*/
+
+
+ background:url("https://www.firestock.ru/wp-content/uploads/2014/07/sequence-01-still0023-700x393.jpg") no-repeat center center fixed;
+
+       -webkit-background-size: cover;
+       -moz-background-size: cover;
+       -o-background-size: cover;
+       background-size: cover;
+
+
+
+
+
+
+ /*background:url("http://fony-kartinki.ru/_ph/75/2/470047867.jpg");*/
+  /*background:url("http://st.gde-fon.com/wallpapers_original/393998_zharenaya-kurica_kartofel_morkov_garnir_bokal_3072x2048_www.Gde-Fon.com.jpg") no-repeat;*/
+  /*background-size: contain;*/
+  background-repeat: repeat;
+  /*background-color:#D9D9F2;*/
+}
+
+.header
+{
+  /*background-color: red;*/
+  overflow: hidden;
+  
+}
+
+.header img
+{
+  position: relative;
+}
+
+h2 
+{
+    position: absolute;
+}
+
+h2 span 
+{
+  line-height: 155px;
+  margin-left: 130px;
+  color: #fff;
+    font-size: 50px;
+    padding: 10px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 0 1px 0 #ccc, 
+               0 2px 0 #c9c9c9,
+               0 3px 0 #bbb,
+               0 4px 0 #b9b9b9,
+               0 5px 0 #aaa,
+               0 6px 1px rgba(0,0,0,.1),
+               0 0 5px rgba(0,0,0,.1),
+               0 1px 3px rgba(0,0,0,.3),
+               0 3px 5px rgba(0,0,0,.2),
+               0 5px 10px rgba(0,0,0,.25),
+               0 10px 10px rgba(0,0,0,.2),
+               0 20px 20px rgba(0,0,0,.15);
+
+}
+
+
+
+
+
+.nazvanie-sayta
+{
+  float: left;
+}
+
+.wrapper
+{
+	width: 1200px;
+	/*height: 500px;*/
+	overflow: hidden;
+	/*background-color: rgba(255,240,255,0.8);*/
+	margin: 0 auto;	
+	/*margin-top: 120px;*/
+}
+
+.bok-menu
+{
+  width: 22%;
+  /*background-color: rgba(0, 0, 0, 0.8);*/
+  /*background-color:#EEEEEE;*/
+  background-color:#EEEEEE;
+  
+  height: 500px;
+  float: left;
+  -webkit-box-shadow:0 0 20px rgba(0,0,0,0.8);
+    -moz-box-shadow:0 0 20px rgba(0,0,0,0.8);
+    box-shadow:20 20 20 120px rgba(0,0,0,0.8);
+
+
+}
+
+.bok-menu span
+{
+  font-family: 'Lobster', cursive;
+  padding-left: 80px;
+  font-size: 25px;
+}
+
+.bok-menu img
+{
+  width: 264px;
+  height: 180px;
+}
+
+.razdel
+{
+  width: 100%;
+  height: 40px;
+  background-color:#D0872B;
+  /*background:url("https://secure.static.tumblr.com/5b48a4b40e99ae61ad80e11dbd477616/o9ynrz6/sHvnpdcxw/tumblr_static_tumblr_static_1xqqvoyzz64g4o80gskk0cg40_640.jpg");*/
+  margin-bottom:1px; 
+  font-size: 30px;
+  text-align: center;
+  color: white;
+}
+
+.razdel img
+{
+  width: 100%;
+  height: 40px;
+}
+
+.razdel a
+{
+  text-decoration: none;
+  color: white;
+}
+
+.razdel:hover
+{
+  box-shadow: 0 0 10px rgba(255,255,255,0.7);
+}
+
+.content
+{
+  width: 77%;
+  /*height: 1900px;*/
+  min-height: 500px;
+  overflow: hidden;
+  /*background-color: rgba(0, 0, 0, 0.8);*/
+  background-color:#EEEEEE;
+  float: right;
+
+
+          /*
+           -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+       -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+            box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;*/
+
+-webkit-box-shadow: 0 0 40px rgba(0,0,0,0.8);
+    -moz-box-shadow:0 0 20px rgba(0,0,0,0.8);
+    box-shadow:20 20 20 120px rgba(0,0,0,0.8);
+}
+
+.wrapper-post
+{
+  margin: 0 auto;
+  /*width: 95%;*/
+  /*height: 257px;*/
+  overflow: hidden;
+  background-color: #395273;
+  margin-bottom: 15px;
+  /*margin-right: 15px;*/
+  margin-left: 15px; 
+  margin-top:10px; 
+  float: left;
+
+ -webkit-box-shadow: 0 16px 16px -6px #777;
+       -moz-box-shadow: 0 16px 16px -6px #777;
+            box-shadow: 0 16px 16px -6px #777;
+}
+
+.wrapper-post img
+{
+  width: 390px;
+  height: 264px;
+}
+
+.wrapper-post:hover
+{
+-webkit-box-shadow: 0 26px 26px -16px #777;
+       -moz-box-shadow: 0 16px 16px -6px #777;
+            box-shadow: 0 36px 36px -26px #777;
+
+}
+
+.footer
+{
+  width: 100%;
+  height: 70px;
+  background-color: #361221;
+  left: 0;
+  bottom: 0;
+  margin-top: 20px;
+  -webkit-box-shadow:0 0 20px rgba(0,0,0,0.8);
+    -moz-box-shadow:0 0 20px rgba(0,0,0,0.8);
+    box-shadow:20 20 20 120px rgba(0,0,0,0.8);
+}
+
+.stranici
+{
+	/*background-color: yellow;*/
+	/*width: 500px;*/
+	font-size: 25px;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.article
+{
+	width: 890px;
+	/*height: 100px;*/
+	/*background-color: red;*/
+  background-color: #447AC1;
+	/*margin-bottom: 20px;*/
+	float: left;
+	/*margin-left: 20px;*/
+	overflow: hidden;
+	/*height: 100px;*/
+}
+
+.title
+{
+	color: white;
+	/*background-color: #447AC1;*/
+  background:url("https://secure.static.tumblr.com/5b48a4b40e99ae61ad80e11dbd477616/o9ynrz6/sHvnpdcxw/tumblr_static_tumblr_static_1xqqvoyzz64g4o80gskk0cg40_640.jpg");
+	font-size: 30px;
+	/*margin-bottom: 10px;*/
+  text-align: center;
+}
+
+.summary
+{
+
+  float: left;
+	font-size: 15px;
+	/*margin-bottom: 5px;*/
+	width: 390px;
+  height: 264px;
+
+
+}
+
+
+
+.summary img
+{
+	width: 410px;
+  height: 264px;
+}
+
+.ingridienti
+{
+
+
+  float: right;
+  width:480px;
+  height:264px;
+  background-color: white;
+
+}
+
+.date
+{
+	/*background-color: #447AC1;*/
+  background:url("https://secure.static.tumblr.com/5b48a4b40e99ae61ad80e11dbd477616/o9ynrz6/sHvnpdcxw/tumblr_static_tumblr_static_1xqqvoyzz64g4o80gskk0cg40_640.jpg");
+	color: white;
+
+}
+
+
+.edit-summary
+{
+  float: left;
+  font-size: 15px;
+  /*margin-bottom: 5px;*/
+  width: 390px;
+  height: 264px;
+
+
+}
+
+
+.edit-summary img
+{
+  width: 410px;
+  height: 264px;
+}
+
+.edit-ingridienti
+{
+  float: right;
+  width:780px;
+  height:264px;
+  background-color: red;
+}
+
+///////////////////////////////////////
+.nav
+{
+	width: 100%;
+	height: 100px;
+	background-color: green;
+}
+
+.nav a
+{
+	margin-left: 15px;
+	font-size: 25px;
+}
+
+input[type=textbox]
+{
+	width: 900px;
+	height: 50px;
+	font-size: 26px;
+	padding: 5px;
+	margin-bottom: 10px;
+}
+
+textarea
+{
+	resize:none;
+	width: 900px;
+	font-size: 24px;
+	padding: 5px;
+	margin: 0 auto;
+	margin-bottom: 10px;
+}
+
+.article_add
+{
+	resize:none;
+	width: 900px;
+	font-size: 24px;
+	padding: 5px;
+	margin: 0 auto;
+	margin-bottom: 10px;
+	height: 500px;
+}
+
+input[type=submit]
+{
+	width: 900px;
+	height: 50px;
+	font-size: 26px;
+	padding: 5px;
+	margin-bottom: 10px;
+}
+
+.delete_news
+{
+	border: 2px solid gray;
+	padding: 5px;
+	margin-bottom: 20px;
+}
+
+
+/*MENU*/
+#navbar ul 
+{
+	  display: none;
+  	background-color: #ECAB43;
+  	position: absolute;
+  	top: 100%;
+
+    border-radius: 10px;
+
+    -webkit-box-shadow:0 0 20px rgba(0,0,0,0.8);
+    -moz-box-shadow:0 0 20px rgba(0,0,0,0.8);
+    box-shadow:20 20 20 120px rgba(0,0,0,0.8);
+}
+
+#navbar li:hover ul 
+{
+ 	display: block; 
+}
+
+#navbar, #navbar ul 
+{
+  	margin: 0;
+  	padding: 0;
+  	list-style-type: none;
+}
+
+#navbar 
+{
+ position: fixed;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+
+
+ 	height: 40px;
+ 	/*background-color: rgba(54, 51, 51, 1);*/
+  /*background-color: #447AC1;*/
+  /*background-color:#361221;*/
+   /*background-color:#1B4A50;*/
+   background-color:#EEEEEE;
+
+ -webkit-box-shadow: 0 16px 16px -6px #777;
+       -moz-box-shadow: 0 16px 16px -6px #777;
+            box-shadow: 0 16px 16px -6px #777;
+}
+
+#navbar li 
+{
+  	float: left;
+  	position: relative;
+  	height: 100%;
+    font-size: 20px;
+    border-radius: 10px;
+
+}
+
+
+
+#navbar ul li
+{
+   
+    font-size: 20px;
+   
+}
+
+#navbar li a 
+{
+ 	display: block;
+ 	margin-top: 3px;
+  	padding: 6px;
+  	width: 150px;
+  	color: #fff;
+  	text-decoration: none;
+  	text-align: center;
+
+}
+
+#navbar ul li ul
+{ 
+ font-size: 10px;
+}
+
+#navbar ul li 
+{ 
+  overflow: hidden;
+	/*height: 50px;*/
+	float: none; 
+}
+
+#navbar li:hover 
+{ 
+	background-color: #5E82C9; 
+
+}
+
+#navbar ul li:hover 
+{ 
+	background-color: #4044BF; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /*-------Стиль всего блока меню -----------*/
+
+.navmenu {
+display:block;
+position:relative;
+border-radius: 10px;
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+height: 58px;
+width: 1200px;
+margin: 0 auto;
+margin-bottom: 20px;
+
+-webkit-box-shadow: 0 0 40px rgba(0,0,0,0.8);
+    -moz-box-shadow:0 0 20px rgba(0,0,0,0.8);
+    box-shadow:20 20 20 120px rgba(0,0,0,0.8);
+}
+
+ /*----------- Стили внешних кнопок меню ------------*/
+
+.navtab a.linktab:after {
+ content: '\21e9';
+}
+
+.navtab {
+float: left;
+position:relative;
+margin: 5px;
+padding-top: 7px;
+padding-left: 15px;
+}
+
+.navtab:hover {
+margin: 4px;
+}
+
+.navtab a.linktab {
+display:block;
+position:relative;
+text-decoration: none;
+font: normal bold 120% tahoma;
+color: #EEEEEE;
+text-shadow: 1px 1px 1px #000;
+padding: 5px 5px 15px 10px;
+text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+}
+
+.navtab:hover a.linktab {
+z-index: 9999;
+color:#161616;
+text-shadow: none;
+background: #287737;
+text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+border: 1px solid #000;
+border-bottom: none;
+border-radius: 5px 5px 0 0;
+-moz-border-radius: 5px 5px 0 0;
+-webkit-border-radius: 5px 5px 0 0;
+}
+
+.navtab a.linktab2 {
+display:block;
+position:relative;
+text-decoration: none;
+font: normal bold 120% tahoma;
+color: #EEEEEE;
+text-shadow: 1px 1px 1px #000;
+padding: 5px 5px 10px 10px;
+
+
+text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+
+
+
+
+}
+.navtab:hover a.linktab2 {
+z-index: 9999;
+/*color:#161616;*/
+text-shadow: none;
+background: #287737;
+border: 1px solid #000;
+border-bottom: none;
+border-radius: 5px 5px 5px 5px;
+-moz-border-radius: 5px 5px  5px 5px;
+-webkit-border-radius: 5px 5px 5px 5px;
+text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+
+}
+ /*Стиль внешних кнопок меню (без выпадающих блоков) */
+.navtab a.nodrop {
+display:block;
+position:relative;
+z-index: 9999;
+text-decoration: none;
+font: normal bold 120% tahoma;
+color: #EEEEEE;
+text-shadow: 1px 1px 1px #000;
+padding: 5px;
+}
+.navtab:hover a.nodrop {
+background: #EEEEEE;
+color:#161616;
+text-shadow: none;
+border: 1px solid #000;
+border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+}
+ /*---------- Стиль выпадающих блоков ------------*/
+.drop_columns2, .drop_columns4, .drop_columns3, .drop_columns1, .drop_columnleft {
+display:none;
+padding: 10px;
+text-align: left;
+}
+.navtab:hover .drop_columns2, .navtab:hover .drop_columns4, .navtab:hover .drop_columns3, .navtab:hover .drop_columns1, .navtab:hover .drop_columnleft {
+display:block;
+position: absolute; z-index: 9998;
+top: 38px;
+}
+/* Размеры, положение выпадающих блоков и рамка */
+
+.drop_columns3 
+{
+ width: 475px; left: 0px; 
+/* -webkit-box-shadow: 0 0 40px rgba(0,0,0,0.8);
+    -moz-box-shadow:0 0 20px rgba(0,0,0,0.8);
+    box-shadow:20 20 20 120px rgba(0,0,0,0.8);*/
+      box-shadow: -7px 46px 100px -12px #000000;
+      border-radius: 10px;
+      -webkit-box-shadow: inset 9px -18px 107px -11px rgba(0,0,0,1);
+-moz-box-shadow: inset 9px -18px 107px -11px rgba(0,0,0,1);
+box-shadow: inset 9px -18px 107px -11px rgba(0,0,0,1);
+}
+
+
+
+
+
+
+
+
+.drop_columns3 span
+{
+  font-size: 40px;
+  padding-left: 200px;
+  font-family: 'Lobster', cursive;
+
+}
+
+.drop_columnleft { width: 300px; right: 0px; }
+
+.drop_columns1, .drop_columns3, .drop_columns2, .drop_columns4, .drop_columnleft {
+/*border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;*/
+}
+ /*--------- Стили контента выпадающих блоков ------------*/
+.navtab p, .navtab div, .navtab span.h_2, .navtab span.h_3 {
+font-size: 14px;
+font-family: Arial, Helvetica, Tahoma, sans-serif;
+text-align:left;
+margin-bottom:10px;
+}
+.navtab span.h_2, .navtab span.h_3 {
+display: block;
+border-bottom:2px solid #888888;
+margin-top:7px;
+}
+.navtab span.h_2 {
+font-size: 24px;
+font-weight: 400;
+margin-bottom:12px;
+padding-bottom:7px;
+}
+.navtab span.h_3 {
+font-size: 16px;
+font-weight: 600;
+margin-bottom:10px;
+padding-bottom:5px;
+}
+.navtab .dark_box {
+border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+color: #fff;
+padding: 5px;
+margin: 5px;
+}
+.navtab p.light_box {
+border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+color: #000;
+padding: 5px;
+margin: 5px;
+}
+.navtab div a {
+text-decoration: none;
+padding: 0;
+}
+/*------ Стиль изображений в блоках меню (размер, рамка, тень выравнивание) -------*/
+.navtab div img {
+width:80px;
+
+/*border: 3px solid #FFFAFA;
+-moz-box-shadow:0px 0px 5px #000000;
+-webkit-box-shadow:0px 0px 5px #000000;
+box-shadow:0px 0px 5px #000000;*/
+margin: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+.navtab .img_button {
+width:32px;
+
+border: none;
+-moz-box-shadow:none;
+-webkit-box-shadow:none;
+box-shadow:none;
+margin: 5px;
+}
+/* Расположение картинки справа (обтекание слева) */
+.navtab .img_right { 
+float: right;
+}
+/* Расположение картинки слева (обтекание справа) */
+.navtab .img_left { 
+float: left;
+}
+ /* --------- Стили для блоков колонок внутри выпадающего блока ---------- */
+.navtab .col_1 a, .navtab .col_2 a, .navtab .col_3 a, .col_4 a {
+display:block;
+padding: 0px;
+margin: 5px 0 5px 0;
+}
+.navtab .col_1 p a, .navtab .col_2 p a, .navtab .col_3 p a, .navtab .col_4 p a {
+display: inline;
+padding: 0px;
+margin: 5px 0 5px 0;
+}
+.navtab .col_1, .navtab .col_2, .navtab .col_3, .navtab .col_4, .navtab .col_full {
+float: left;
+position: relative;
+margin: 0px;
+margin-right: 10px;
+display: block;
+}
+.navtab .col_1
+{
+ 
+  width:200px;
+
+}
+
+.col_1
+{
+  padding-left: 20px;
+}
+
+
+
+.btnlink a img
+{
+  padding-left: 20px;
+  width: 127px;
+  height: 82px;
+}
+
+.obertka-menu
+{
+  margin: 0 auto;
+  overflow: hidden;
+  /*padding-top: 15px;*/
+  
+}
+
+.navtab .col_full {width:100%;}
+ /* Стили цвета для меню, блоков и ссылок */
+.navmenu {
+background: #d24900;
+background: -moz-linear-gradient(top, #ff6717, #c14300);
+background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#ff6717), to(#c14300));
+background: -o-linear-gradient(top, #ff6717, #c14300);
+border: 1px solid #CD6600;
+
+}
+.navtab:hover .drop_columns3, .navtab:hover .drop_columnleft 
+{
+background: #287737;
+background: -moz-linear-gradient(top, #287737, #A7C52F);
+background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#287737), to(#A7C52F));
+background: -o-linear-gradient(top, #287737, #A7C52F);
+/*border: 1px solid #000;*/
+/*background:url("https://www.colourbox.com/preview/2800681-blackboard-wood-menu-todays-special-restaurant-black.jpg") no-repeat center;
+background-size:100% 500px;*/
+
+
+}
+.navtab .dark_box {
+background: #363636;
+border: 1px solid #000;
+}
+.navtab p.light_box {
+background: #FFFFF0;
+border: 1px solid #fff;
+}
+.navtab div a {
+color: #FF4500;
+}
+.navtab div a:hover {
+color: #FF8C69;
+}
+.navtab div a:visited {
+color: #F4A460;
+}
+.navtab .btnlink a {
+background: #E8E8E8;
+
+border: 1px solid #fff;
+border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+padding: 5px;
+margin: 5px 3px 7px 0;
+}
+
+.btnlink a span
+{
+  font-family: 'Lobster', cursive;
+  font-size: 20px;
+  padding-left: 35px;
+
+}
+
+
+
+.navtab .btnlink a:hover {
+background: #F8F8FF;
+border: 1px solid #FFF5EE;
+}
+
+
+
+
